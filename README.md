@@ -51,4 +51,4 @@ A Power BI dashboard analyzing employee attrition across **1,470 employees**, id
 ---
 
 ## 📸 Dashboard Preview
-![HR Attrition Analysis](Hr_analysis.png)
+![HR Attrition Analysis](https://github.com/Shaunak2829/Hr-Attrition-Analysis-Dashboard/blob/main/Hr_analysis.png)
